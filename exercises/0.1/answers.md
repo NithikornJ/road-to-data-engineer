@@ -9,4 +9,6 @@ A.
 3.git add ใช้สำหรับ เพิ่มไฟล์ ที่ต้องการคอมมิต commit เป็นการบันทึก จุด ถ้าเรา add โดยมไม่ การ add ไม่ได้เป็นการบันทึก
 C.
 1.ทำแล้ว https://github.com/NithikornJ/road-to-data-engineer
-2.
+2.PS D:\road-to-data-engineer> git log --oneline
+d3a8485 (HEAD -> main) Add answer.md
+be66e60 (origin/main, origin/HEAD) first commit
